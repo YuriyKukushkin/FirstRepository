@@ -4,3 +4,6 @@ c:\users\yuriy.kukushkin\documents\visual studio 2015\Projects\TestGithubProject
 c:\users\yuriy.kukushkin\documents\visual studio 2015\Projects\TestGithubProject\TestGithubProject\obj\Debug\TestGithubProject.csprojResolveAssemblyReference.cache
 c:\users\yuriy.kukushkin\documents\visual studio 2015\Projects\TestGithubProject\TestGithubProject\obj\Debug\TestGithubProject.exe
 c:\users\yuriy.kukushkin\documents\visual studio 2015\Projects\TestGithubProject\TestGithubProject\obj\Debug\TestGithubProject.pdb
+D:\TestGithubProject\TestGithubProject\bin\Debug\TestGithubProject.exe.config
+D:\TestGithubProject\TestGithubProject\obj\Debug\TestGithubProject.exe
+D:\TestGithubProject\TestGithubProject\obj\Debug\TestGithubProject.pdb
