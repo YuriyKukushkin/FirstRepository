@@ -1,0 +1,6 @@
+D:\TestGithubProject\TestGithubProject\bin\Debug\TestGithubProject.exe.config
+D:\TestGithubProject\TestGithubProject\bin\Debug\TestGithubProject.exe
+D:\TestGithubProject\TestGithubProject\bin\Debug\TestGithubProject.pdb
+D:\TestGithubProject\TestGithubProject\obj\Debug\TestGithubProject.Core.csprojResolveAssemblyReference.cache
+D:\TestGithubProject\TestGithubProject\obj\Debug\TestGithubProject.exe
+D:\TestGithubProject\TestGithubProject\obj\Debug\TestGithubProject.pdb
